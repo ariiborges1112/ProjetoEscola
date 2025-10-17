@@ -1,5 +1,3 @@
-package github1;
-
 public class Aluno {
     private String nome;
     private int matricula;
@@ -33,4 +31,5 @@ public class Aluno {
     public float getMedia(){
         return calcularMedia();
     }
+
 }
